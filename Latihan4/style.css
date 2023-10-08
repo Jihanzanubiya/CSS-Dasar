@@ -1,0 +1,12 @@
+h1 {
+    font-size: 100px;
+    color: aliceblue;
+}
+
+p {
+    color: aquamarine;
+}
+
+body {
+    background: url(bg2.png) rgb(122, 102, 102) no-repeat top center;
+}
